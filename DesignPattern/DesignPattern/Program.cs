@@ -7,6 +7,8 @@ namespace DesignPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            DesignPatterns.AbstractFactoryExemple();
+            Console.ReadLine();
         }
     }
 }
